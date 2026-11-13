@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keuri Wervelin - Portfólio Profissional</title>
+    <script src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.js"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+    <div class="max-w-3xl mx-auto p-6 bg-white shadow-lg my-10 rounded-lg">
+        <h1 class="text-3xl font-bold text-blue-900 mb-2">Keuri Wervelin Nogueira Alves</h1>
+        <p class="text-gray-600 mb-4">Estudante de Engenharia de Telecomunicações (6º semestre) - IFCE | Fortaleza, CE</p>
+        <div class="border-t pt-4 mb-4">
+            <h2 class="text-xl font-semibold text-blue-800 mb-2">Contato</h2>
+            <p>WhatsApp: (85) 98949-6348 | E-mail: keuri2wervelin@gmail.com</p>
+        </div>
+        <div class="border-t pt-4 mb-4">
+            <h2 class="text-xl font-semibold text-blue-800 mb-2">Objetivo</h2>
+            <p>Busco uma oportunidade de estágio em Engenharia de Telecomunicações.</p>
+        </div>
+        <div class="border-t pt-4 mb-4">
+            <h2 class="text-xl font-semibold text-blue-800 mb-2">Formação Acadêmica</h2>
+            <p><strong>Engenharia de Telecomunicações</strong> - IFCE (6º semestre, previsão 2028.2)</p>
+        </div>
+        <div class="border-t pt-4 mb-4">
+            <h2 class="text-xl font-semibold text-blue-800 mb-2">Experiência Profissional</h2>
+            <ul class="list-disc list-inside space-y-2 text-gray-700">
+                <li><strong>Autotech (Empresa Júnior do IFCE):</strong> Voluntária comercial (03/2024 - 07/2024). Atuação com planejamento e gestão de conteúdo para redes sociais, atendimento ao cliente e reuniões comerciais.</li>
+                <li><strong>Paróquia Santíssima Trindade:</strong> Catequista voluntária (07/2023 - Atual). Organização de encontros formativos, cronogramas e suporte a eventos comunitários.</li>
+            </ul>
+        </div>
+        <div class="border-t pt-4 mb-4">
+            <h2 class="text-xl font-semibold text-blue-800 mb-2">Cursos e Certificações</h2>
+            <ul class="list-disc list-inside text-gray-700">
+                <li>CCNA: Introdução às Redes - Cisco (2026)</li>
+                <li>Introdução à Cibersegurança - Cisco (2026)</li>
+                <li>TelecomWeek - IFCE (2025)</li>
+                <li>Figma - IFCE (2024)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
